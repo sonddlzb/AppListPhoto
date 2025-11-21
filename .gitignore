@@ -1,0 +1,8 @@
+*.DS_Store
+fastlane/report.xml
+*.ipa
+*.dsym
+*.dsym.zip
+*.generated.swift
+Pods/
+xcuserdata
